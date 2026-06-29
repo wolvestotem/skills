@@ -1,6 +1,6 @@
 ---
 name: tech-article-deep-summary
-description: Deeply summarize and explain technology articles, AI/agent essays, product announcements, engineering blogs, research explainers, and Lark/web/PDF articles. Use when the user provides one or more technology articles and wants a reusable high-readability summary with original-source verification, article structure, key mechanisms, diagrams, writing style extraction, and practical takeaways.
+description: "Deeply summarize and explain technology articles, AI/agent essays, product announcements, engineering blogs, research explainers, and Lark/web/PDF articles. Use when the user provides one or more technology articles and wants a reusable high-readability summary with original-source verification, article structure, key mechanisms, diagrams, writing style extraction, and practical takeaways."
 ---
 
 # Tech Article Deep Summary
