@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tech Article Deep Summary"
+  short_description: "Deep analysis for technology articles"
+  default_prompt: "Use $tech-article-deep-summary to deeply summarize this technology article with source facts, structure, key mechanisms, diagrams, and takeaways."
